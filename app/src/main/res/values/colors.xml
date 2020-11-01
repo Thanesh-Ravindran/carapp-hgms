@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- base colors -->
+    <color name="color_white">#ffffff</color>
+    <color name="color_grey">#ecf0f1</color>
+    <color name="color_dgrey">#c0c0c0</color>
+    <color name="color_black">#030303</color>
+    <color name="color_green">#27ae60</color>
+    <color name="color_yellow">#f1c40f</color>
+    <color name="color_red">#c0392b</color>
+
+    <!-- main colors -->
+    <color name="color1">#04c9aa</color>
+    <color name="color2">#76d7bd</color>
+    <color name="color3">#4a5297</color>
+    <color name="color4">#040405</color>
+    <color name="color5">#646cb3</color>
+    <color name="color6">#448371</color>
+    <color name="color7">#165c4c</color>
+    <color name="color8">#17493e</color>
+    <color name="color9">#47bea1</color>
+    <color name="color10">#343448</color>
+
+    <!-- table colors -->
+    <color name="table_color1">#D6D5C9</color>
+    <color name="table_color2">#B9BAA3</color>
+    <color name="table_color3">#eb4d4b</color>
+    <color name="table_color4">#f0932b</color>
+    <color name="table_color5">#f9ca24</color>
+    <color name="table_color6">#6ab04c</color>
+
+</resources>

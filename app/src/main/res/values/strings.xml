@@ -1,0 +1,58 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- home screen -->
+    <string name="app_name">Harmful Gas Monitoring System (HGMS)</string>
+    <string name="reading_activity">readings.</string>
+    <string name="reading_activity_extra">CO, LPG, Methane</string>
+    <string name="about_activity">about app.</string>
+    <string name="about_activity_extra">FAQ, App Info</string>
+    <string name="exit">EXIT</string>
+
+    <!-- reading screen -->
+    <string name="co">Carbon Monoxide, CO</string>
+    <string name="lpg">Liquefied Petroleum Gas, LPG</string>
+    <string name="meth">Methane Gas, CH4</string>
+    <string name="y_axis">ppm</string>
+    <string name="x_axis">time</string>
+    <string name="status">Status: </string>
+
+    <string name="description">Approx. Inhalation time &amp; symptoms</string>
+    <string name="description_1">Max allowable exposure for a given 8 hour period.</string>
+    <string name="description_2">Physical symptoms after 2–3 hours.</string>
+    <string name="description_3">Physical symptoms within 45 minutes. Unconsciousness in 2 hours.</string>
+    <string name="description_4">Physical symptoms within 20 minutes. Fatal within 1 hour.</string>
+
+    <string name="range">PPM</string>
+    <string name="range_1">9–50</string>
+    <string name="range_2">70–200</string>
+    <string name="range_3">400+</string>
+    <string name="range_4">800+</string>
+
+    <!-- about screen -->
+    <string name="header1">
+        Harmful Gas Monitoring System (HGMS).
+    </string>
+    <string name="about_app1">
+        HGMS is an Android application embedded with a  Gas analyzer.
+        The system is developed for users to monitor leakage of harmful gases inside the cabin of an automobile.
+        The most common gas causing intoxication and health imposed risks towards human beings in a running automobile is CO gas.
+    </string>
+    <string name="header2">
+        What is CO gas?
+    </string>
+    <string name="about_app2">
+        CO stands for carbon monoxide. Carbon monoxide  is an odourless, tasteless, and it is not visible for the naked eye.
+        Carbon monoxide poisoning commonly occurs from breathing in carbon monoxide at excessive levels.
+        CO poisoning at excessive levels has statistically proven to induce health related risks towards human beings and it is proven to be fatal.
+    </string>
+    <string name="header3">
+        PPM Measurement.
+    </string>
+    <string name="about_app3">
+        This mobile application allows users to monitor leakage of gases in the unit concentration  of parts per million(PPM).
+        The scope of gases detected from this device comprises of CO and other flammable gases.
+        The tabulated data below shows the range between the exposure period of CO gas with respective to the concentration of the gas in PPM and the health imposed risk towards the users.
+    </string>
+    <string name="header4">
+         CO warning signs and symptoms.
+    </string>
+</resources>
